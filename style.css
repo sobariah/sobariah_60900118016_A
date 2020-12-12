@@ -18,7 +18,7 @@ body{
 }
 #profil-image{
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 #profil-name{
     text-align: center;
