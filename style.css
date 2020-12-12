@@ -18,8 +18,8 @@ body{
 }
 #profil-image{
 
-    width: 100%;
-    height: auto;
+    width: 300px;
+    height: 300px;
 }
 #profil-name{
     text-align: center;
