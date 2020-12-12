@@ -17,8 +17,8 @@ body{
     border-radius: 6px;
 }
 #profil-image{
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: auto;
 }
 #profil-name{
     text-align: center;
